@@ -1,0 +1,28 @@
+.suggestions-card-container {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.item-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.arrow-image {
+  height: 20px;
+  width: 20px;
+}
+
+.button {
+  background-color: #ffffff;
+  border-width: 0px;
+}
